@@ -178,7 +178,7 @@ This was completed by following the steps outlined below:
 
 ### Why This Matters?
 
-You need to set the IP address of the target endpoint for the scan to yield accurate results. You need to inout the credentials of the windows virtual machine because it is a **Authenticated Basic Network Scan**.
+You need to set the IP address of the target endpoint for the scan to yield accurate results. You need to input the credentials of the windows virtual machine because it is a **Authenticated Basic Network Scan**.
 
 ### Step 5: Review Results
 
